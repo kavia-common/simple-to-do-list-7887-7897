@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-to-do-list-7887-7897/to_do_backend"
+}
